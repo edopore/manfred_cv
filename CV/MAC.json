@@ -1,0 +1,335 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Eduardo José",
+      "surnames": "Maya Rodriguez",
+      "title": "Ingeniero electrónico en busca de nuevas aventuras profesionales",
+      "description": "Me considero una persona curiosa. Interesado en adquisición continua de conocimientos en tecnología, para llegar a ser un líder especializado en ciencias de la computación y desarrollo.\n\nMe encanta practicar deportes como futbol, voleibol, atletismo y ciclismo.\n\nSiempre con la mente en proyectos interesantes de los cuales pueda poner en practica todo mi potencial técnico y mi imaginación",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/08/4c97c1a5-1646-49a0-97b2-ea9cbe583d79_d4788e02-6c6f-4028-9.jpeg",
+        "alt": "D4788E02-6C6F-4028-9256-8A0C4BD72A97.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ8bNLzPCmMI4RaGGuUum1Dx8)",
+        "country": "Colombia",
+        "region": "Valle del Cauca",
+        "municipality": "Cali"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/eduardomaya"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/edopore"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "AOS INTERNATIONAL SAS"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Fullstack",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollé aplicación de gestión de crédito para una importante entidad financiera en Colombia, ayudé en el paso de transformación, gestión y cargue de una cantidad grande de información para alimentar el sistema de datos de la aplicación."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ISA NETWORKS ISP SAS"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de Sistemas",
+            "startDate": "2021-01-01",
+            "finishDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Encargado de atención al cliente. Administración de redes.\nConfiguración de equipos de red MikroTik y GPON Huawei\nAsesor en el desarrollo de aplicativo para la activacion de servicios de internet por medio del uso de servicio api de equipos MikroTik"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Diplomado de Programación en JAVA",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Politecnico de Colombia",
+          "description": "Conocimientos básicos en lenguaje de programación JAVA"
+        },
+        "finishDate": "2022-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fundamentos de analitica de datos",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Correlation one",
+          "description": "Curso de formación en analítica de datos",
+          "URL": "https://www.credential.net/5941c9d4-9dc9-4530-a753-efe55b3743f1?record_view=true#gs.l6kw2p"
+        },
+        "finishDate": "2022-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Datastage",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero electrónico",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Universidad de antioquia"
+        },
+        "finishDate": "2021-03-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Python development industry training",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Brainnest",
+          "description": "Training in Python programming language",
+          "URL": "https://www.credential.net/5941c9d4-9dc9-4530-a753-efe55b3743f1?record_view=true#gs.l6kw2p"
+        },
+        "finishDate": "2023-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/eduardomaya",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/edopore",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Scientist",
+        "DevOps & Infrastructure & SRE",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaria un trabajo donde pueda poner en practica todos mis conocimientos en desarrollo de software y despliegue en servicios cloud"
+  }
+}
